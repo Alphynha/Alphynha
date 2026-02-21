@@ -1,10 +1,5 @@
 ## Hello! Alphy On! 👋🤓
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Alphynha&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alphynha&layout=compact&theme=tokyonight" />
-</p>
-
 * 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 * 📚 Apaixonado por tecnologia e soluções inovadoras
 * 💡 Sempre aprendendo algo novo voltado à área da Tecnologia da Informação
