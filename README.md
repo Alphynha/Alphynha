@@ -1,4 +1,4 @@
-## Olá, Alfredo aqui! 👋🤓
+## Hello! Alphy On! 👋🤓
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Alphynha&show_icons=true&theme=tokyonight&count_private=true" />
